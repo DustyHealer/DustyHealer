@@ -1,4 +1,4 @@
-![logo](https://github.com/DustyHealer/DustyHealer/blob/main/github-header-image.png)
+![logo](https://github.com/DustyHealer/DustyHealer/blob/main/my-github-header.png)
 <h1 align="center">Hi 👋, I'm Himanshu Singhal</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
